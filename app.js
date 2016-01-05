@@ -1,9 +1,12 @@
 import request from 'superagent'
 import ipp from 'ipp'
 import fs from 'fs'
+import Options from './lib/options'
 // import grayscale from './lib/grayscale'
 
-// grayscale('some/path/to/[-color-,-duplex-]file.pdf')
+// let o = new Options('some/path/to/[-color-,-duplex-]file.pdf')
+// console.log(o.getOptions());
+// console.log(o.isTrue('color'));
 
 const path = 'Dropbox/PrinterServer'
 
