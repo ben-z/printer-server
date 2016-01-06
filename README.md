@@ -7,4 +7,5 @@ Under development:
 - [ ] Options
   - [ ] Color/Grayscale
   - [ ] Manual Duplex (Auto conversion - odd/even pages)
+- [ ] Automatic file format conversion
 - [ ] Documentation
